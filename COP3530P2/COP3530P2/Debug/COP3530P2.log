@@ -1,0 +1,24 @@
+﻿  COP3530P2.cpp
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(241,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(284,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(326,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(368,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(407,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(447,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(483,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(494,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(530,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(541,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(576,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(587,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(620,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(650,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(680,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(710,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(740,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(770,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(800,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(830,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(860,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\COP3530P2\COP3530P2\COP3530P2.cpp(116): warning C4715: 'remove': not all control paths return a value
+  COP3530P2.vcxproj -> C:\Users\wynnr\source\repos\COP3530P2\Debug\COP3530P2.exe
